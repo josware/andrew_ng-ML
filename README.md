@@ -13,7 +13,7 @@ Now you can use octave from the CLI
 
 Another issue I had is with GNUplot, (AquaTerm error) to solve it this worked for me:
 
-* **echo "setenv(\"GNUTERM\",\"qt\")" > ~/.octaverc**
+* **echo "setenv(\\"GNUTERM\\",\\"qt\\")" > ~/.octaverc**
 
 Also there are some other interesting solutions here:
 https://stackoverflow.com/questions/13786754/octave-gnuplot-aquaterm-error-set-terminal-aqua-enhanced-title-figure-1-unk
